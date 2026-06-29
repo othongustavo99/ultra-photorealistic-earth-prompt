@@ -1,18 +1,20 @@
 # 🌍 Ultra Photorealistic Planet Earth Prompt
 
-Prompt profissional para gerar o **Planeta Terra** com máximo realismo possível.
+Prompt ultra-detalhado para gerar o **Planeta Terra** com realismo cinematográfico e científico.
 
 ---
 
 ## 📷 Exemplo
 
 <p align="center">
-  <img src="earth.png" width="85%" alt="Ultra Photorealistic View of Planet Earth">
+  <img src="earth.png" width="82%" alt="Ultra Photorealistic Planet Earth from Space">
 </p>
+
+**Vista orbital do Planeta Terra • Realismo NASA/ESA**
 
 ---
 
-## Prompt Completo
+## 📄 Prompt Completo
 
 ```dart
 Create an ultra-photorealistic, scientifically accurate image of Planet Earth viewed from space, captured from a distant low Earth orbit (LEO) using a professional ultra-wide-angle full-frame camera system.
