@@ -1,0 +1,80 @@
+# 🌍 Ultra Photorealistic Planet Earth Prompt
+
+Prompt profissional para gerar o **Planeta Terra** com máximo realismo possível.
+
+---
+
+## 📷 Exemplo
+
+<p align="center">
+  <img src="earth.png" width="85%" alt="Ultra Photorealistic View of Planet Earth">
+</p>
+
+---
+
+## Prompt Completo
+
+```dart
+Create an ultra-photorealistic, scientifically accurate image of Planet Earth viewed from space, captured from a distant low Earth orbit (LEO) using a professional ultra-wide-angle full-frame camera system.
+
+The entire planetary disk must be completely visible within the frame, perfectly centered and fully contained without cropping. Earth should occupy approximately 65–80% of the composition while preserving the complete spherical silhouette and natural proportions.
+
+Render the planet with physically accurate planetary features, including:
+• Realistic continental landmasses with correct geographic proportions
+• Deep blue oceans with natural color variation
+• Polar ice caps
+• Highly detailed multi-layer cloud systems
+• Accurate large-scale weather formations
+• Natural atmospheric limb with subtle Rayleigh scattering
+• Smooth atmospheric gradient transitioning into the vacuum of space
+
+Lighting must be physically correct:
+• Single natural sunlight source
+• Soft daylight illumination
+• Realistic solar incidence angle
+• Accurate shadows within cloud systems
+• Natural specular reflections over oceans
+• No exaggerated HDR
+• No bloom or artificial glow
+
+The surrounding space must appear as true deep space:
+• Pure black background
+• Thousands of small, naturally distributed stars with realistic brightness variation
+• Extremely subtle Milky Way visible only as a faint distant galactic band
+• No oversized stars
+• No fantasy nebulae
+• No colorful cosmic clouds
+• No lens flares
+
+The image should resemble a genuine orbital photograph captured by modern NASA or ESA imaging systems rather than computer-generated artwork.
+
+Image characteristics:
+• Ultra-photorealistic
+• Scientific realism
+• Physically based rendering (PBR)
+• Natural color science
+• High dynamic range without oversaturation
+• Perfect white balance
+• Exceptional micro-detail
+• Subtle photographic film grain
+• Clean optics
+• Razor-sharp focus across the entire frame
+
+Composition:
+• Cinematic yet documentary
+• National Geographic editorial photography style
+• Calm and majestic atmosphere
+• Symmetrical composition
+• Entire globe fully visible
+• No spacecraft
+• No satellites
+• No astronauts
+• No text
+• No logos
+• No artificial visual effects
+• No CGI appearance
+• No AI artifacts
+
+Target quality:
+Ultra-high-resolution 8K, museum-quality, indistinguishable from a real orbital photograph of Earth captured with state-of-the-art space imaging technology.
+                
